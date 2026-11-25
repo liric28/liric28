@@ -68,6 +68,8 @@ Shenzhen, CN · @BT · 写 App，也写 Agent
 - 邮箱：417614561@qq.com
 - 坐标：Shenzhen, China
 - 状态：可接活（Open to work）
+- 主页：[liric28.github.io](https://liric28.github.io)
+- 社交：[X](https://x.com/lucksuga) · [微博](https://weibo.com/lucksuga) · [Instagram](https://instagram.com/liric28) · [Telegram](https://t.me/liric28)
 
 <div align="center">
 
