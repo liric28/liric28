@@ -1,6 +1,6 @@
 <div align="center">
 
-# YoYo
+# LuckSuga
 
 **iOS / macOS Engineer · Coding-Agent Tooling**
 
