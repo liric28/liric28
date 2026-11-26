@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/5009238?v=4" width="96" alt="LuckSuga" style="border-radius:50%;">
+
 # LuckSuga
 
 **iOS / macOS Engineer · Coding-Agent Tooling**
@@ -12,15 +14,23 @@ Shenzhen, CN · @BT · 写 App，也写 Agent
 
 ---
 
-## 关于
+## 关于我 ✨
 
-2013 年起在 GitHub 上写代码。主力 **iOS / macOS**（Swift、Objective-C、C++），
-近几年精力分了一半给 **coding agent 工具链** —— 让模型少读废话、少调工具、少走弯路。
+👋 你好，我是 **LuckSuga** —— 在深圳写代码的第 13 年。
 
-偏好：能自己跑的自动化 > 手工流程；小而专的工具 > 大而全的框架；
-先测真实结果，再下结论。
+☀️ 白天写 **iOS / macOS** App（Swift、Objective-C、C++）；
+🌙 晚上折腾 **AI Agent 工具链**，让模型少读废话、少调工具、少走弯路。
 
-## 我的项目
+🧭 **我的三条不妥协**
+
+- 🤖 能自动化的绝不手动 —— 脚本比人靠谱
+- 🧩 小而专的工具，好过大而全的框架
+- ✅ 先跑出真实结果，再下结论
+
+📍 深圳 · 🏢 BT · 💼 **Open to work**
+📩 有想法、想合作、想吐槽代码，随时来聊 🫶
+
+## 我的项目 🚀
 
 | 项目 | 做什么 | 语言 |
 |---|---|---|
@@ -28,7 +38,7 @@ Shenzhen, CN · @BT · 写 App，也写 Agent
 | [radio-app](https://github.com/liric28/radio-app) | 网络电台应用 | TypeScript |
 | [LPBaseUI](https://github.com/liric28/LPBaseUI) | iOS 便捷 UI 工具类（`showToast` / `Async` / 链式布局） | Objective-C |
 
-## 我在跟的上游
+## 我在跟的上游 🌱
 
 下面这些仓库是我 GitHub 账号下的 **fork**，原作者 credit 归他们。列在这里是因为我长期在用、也在读它们的实现。
 
@@ -44,7 +54,7 @@ Shenzhen, CN · @BT · 写 App，也写 Agent
 | [DebugSwift](https://github.com/DebugSwift/DebugSwift) | DebugSwift | iOS 调试工具包 |
 | [Hero](https://github.com/HeroTransitions/Hero) | HeroTransitions | iOS 转场动画库 |
 
-## 技术栈
+## 技术栈 🧰
 
 ![Swift](https://img.shields.io/badge/Swift-5F4D2A?style=flat-square&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square)
@@ -54,7 +64,7 @@ Shenzhen, CN · @BT · 写 App，也写 Agent
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-## 统计
+## 统计 📊
 
 <div align="center">
 
@@ -63,12 +73,13 @@ Shenzhen, CN · @BT · 写 App，也写 Agent
 
 </div>
 
-## 找我
+## 找我 📬
 
-- 邮箱：417614561@qq.com
-- 坐标：Shenzhen, China
-- 状态：可接活（Open to work）
-- 主页：[liric28.github.io](https://liric28.github.io)
+- 📮 邮箱：417614561@qq.com
+- 📍 坐标：Shenzhen, China
+- 🏢 公司：BT
+- 💼 状态：可接活（Open to work）
+- 🌐 主页：[liric28.github.io](https://liric28.github.io)
 - 社交：[X](https://x.com/lucksuga) · [微博](https://weibo.com/lucksuga) · [Instagram](https://instagram.com/liric28) · [Telegram](https://t.me/liric28)
 
 <div align="center">
